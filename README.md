@@ -17,7 +17,7 @@ Click "Previous" or "Next" to cycle through the images.
 4. Open http://localhost:3000 in your browser to view the app.
 
 ## Technologies Used
-React
-JavaScript
-HTML
-CSS
+1.React
+2.JavaScript
+3.HTML
+4.CSS
