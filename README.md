@@ -11,7 +11,7 @@ Click "Previous" or "Next" to cycle through the images.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-image-changer.git
+   git clone https://github.com/supriyatech06/ImageCarousel.git
 2. npm install
 3. npm start
 4. Open http://localhost:3000 in your browser to view the app.
