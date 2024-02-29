@@ -1,0 +1,47 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+.main{
+  display: flex;
+  border: 1px black;
+}
+
+.prev{
+  margin-top:20%;
+  margin-right: 10%;
+ width:fit-content;
+ height: fit-content;
+}
+.next{
+
+    margin-top:20%;
+    margin-left: 10%;
+   width:fit-content;
+   height: fit-content;
+  
+}
+
+@media screen and (max-width: 300px) {
+  .main{
+    margin-left: 0%;
+  }
+  .next{
+    margin-left: 5%;
+  }
+  .prev{
+    margin-right: 5%;
+  }
+}
